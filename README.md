@@ -4,7 +4,7 @@
 ## Description
 The data were collected and recorded by 351 German native speakers with authentic accents. Recording devices are mainstream Android phones and iPhones. The recorded text is designed by professional language experts and is rich in content, covering multiple categories such as general purpose, interactive, vehicle-mounted and household commands. The recording environment is quiet and without echo. The texts are manually transcribed with a high accuracy rate. Recording devices are mainstream Android phones and iPhones.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/66?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/66?source=Github
 
 
 ## Format
